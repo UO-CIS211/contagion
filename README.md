@@ -1,4 +1,13 @@
-# Contagion (CIS 211 project)
+# Contagion (Archived CIS 211 project)
+
+Retired winter 2024.  Too messy, not a realistic application
+of subclassing.  We were using subclassing and inheritance in
+contexts in which I would use configuration files and possibly
+functional programming techniques in a "for real" application.
+An SIR model might still be a good exercise, but not this
+SIR model at this point in our CS1/CS2 series. 
+
+## Overview
 
 A simple grid model of contagion
 
